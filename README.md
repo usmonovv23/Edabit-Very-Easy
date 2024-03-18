@@ -17,3 +17,63 @@ function addition(a, b) {
 }
 
 ```
+
+[3. Convert Minutes into Seconds](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
+
+```js
+
+function convert(minutes) {
+	return minutes * 60
+}
+
+```
+
+[4. Return the Next Number from the Integer Passed](https://edabit.com/challenge/NAQhEoxbofPidLxm9)
+
+```js
+
+function addition(num) {
+	return ++num
+}
+
+```
+
+[5. ]()
+
+```js
+
+
+
+```
+
+[3. ]()
+
+```js
+
+
+
+```
+
+[3. ]()
+
+```js
+
+
+
+```
+
+[3. ]()
+
+```js
+
+
+
+```
+
+[3. ]()
+
+```js
+
+
+
+```
