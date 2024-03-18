@@ -38,42 +38,62 @@ function addition(num) {
 
 ```
 
-[5. ]()
+[5. Area of a Triangle](https://edabit.com/challenge/3CaszbdZYGN4otQD8)
 
 ```js
 
-
+function triArea(base, height) {
+	return (base * height) / 2
+}
 
 ```
 
-[3. ]()
+[6. Convert Age to Days](https://edabit.com/challenge/bL7hSc6Zh4zZJzGmw)
 
 ```js
 
-
+function calcAge(age) {
+	return age * 365
+}
 
 ```
 
-[3. ]()
+[7. Buggy Code (Part 1)](https://edabit.com/challenge/j7yQbF3J3rToHsDBP)
 
 ```js
 
-
+function cubes(a) {
+	return a ** 3
+}
 
 ```
 
-[3. ]()
+[8. Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
 
 ```js
 
-
+function getFirstValue(arr) {
+	return arr[0]
+}
 
 ```
 
-[3. ]()
+[9. Power Calculator](https://edabit.com/challenge/wAdE9te55cowBLcPs)
 
 ```js
 
+function circuitPower(voltage, current) {
+	return voltage * current
+}
 
+```
+
+[10. Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
+
+```js
+
+function howManySeconds(hours) {
+	return hours * 3600
+}
 
 ```
